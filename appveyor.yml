@@ -13,4 +13,4 @@ environment:
     PYTHONPATH: C:\Python37-x64
 
 install:
-- cmd: set
+- cmd: set && dir "C:\Program Files (x86)\"
