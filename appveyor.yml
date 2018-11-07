@@ -1,0 +1,16 @@
+version: 1.0.{build}
+
+image: Visual Studio 2017
+
+configuration: Release
+
+environment:
+  matrix:
+  - platform: Win32
+    PYTHONPATH: C:\Python37
+
+  - platform: x64
+    PYTHONPATH: C:\Python37-x64
+
+install:
+- cmd: set
