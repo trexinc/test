@@ -1,4 +1,4 @@
-<table style="padding-left: 800px">
+<table style="position: absolute; right: 0;">
   <tr>
     <td></td>
     <td>AppVeyor</td>
