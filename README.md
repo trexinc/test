@@ -1,7 +1,7 @@
-<div style="position: absolute; right: 0;">
+<p align="right">
 sdfsdfsdfs
  
-</div>
+</p>
 
 <table>
   <tr>
