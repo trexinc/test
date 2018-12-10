@@ -1,4 +1,5 @@
-<table style="position: absolute; right: 0;">
+<div style="position: absolute; right: 0;">
+<table>
   <tr>
     <td></td>
     <td>AppVeyor</td>
@@ -6,3 +7,4 @@
   </tr>
 </table>
  
+</div>
