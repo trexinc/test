@@ -1,6 +1,6 @@
 <p align="right">
 sdfsdfsdfs
-<table>
+<table align="right">
   <tr>
     <td></td>
     <td>AppVeyor</td>
