@@ -17,5 +17,6 @@ clone_depth: 1
 install:
   - dir C:\mingw-w64\*
   - dir C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\*
-  - dir C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\bin\*
+  - dir C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\*
+  - dir C:\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\*
   
